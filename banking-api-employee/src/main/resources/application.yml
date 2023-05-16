@@ -1,0 +1,14 @@
+server:
+  port: 9056    #port number
+ 
+spring:
+  application:
+    name: banking-api-emp    #service name
+ 
+logging:
+  level:
+    com.bank.it: DEBUG
+
+
+app:
+  service: H-154, SEC-23, SANJAY NAGAR , GHAZIABAD - 201002 
